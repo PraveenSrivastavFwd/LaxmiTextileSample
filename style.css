@@ -47,15 +47,15 @@ h6{
     padding: 13px 30px;
     text-transform: uppercase;
 }
-
 p{
     font-size: 16px;
     color: #465b52;
     margin: 15px 0 20 0;
 } 
-
-body{
+html,body{
     width: 100%;
+    height: 100%;
+    overflow-x: hidden;
 }
 .navbar{
     font-size: 16px;
@@ -255,5 +255,3 @@ body{
 .footerSecD>button{
     padding: 2%;
 }
-
-
